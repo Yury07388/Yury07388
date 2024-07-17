@@ -1,4 +1,4 @@
-### Olá! Eu sou Yury José da Silva, estou começando minha carreira como desenvolvedor Backeand e Frontead. 👋
+### Olá! Eu sou desenvolvedor Backeand e Frontead. 👋
 
 <div>
   
